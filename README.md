@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact **I play games and watch animes or mangas.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages
 
-<p align="left">
+<p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -36,6 +36,16 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+
+</p>
+
+## 🚀 Tools
+<p align="center">
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
+    <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
+   
+
 
 </p>
 
