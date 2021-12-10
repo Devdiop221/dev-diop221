@@ -81,7 +81,6 @@
 <a href = "https://www.linkedin.com/in/mouhamed-diop-3409101ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Devdiop221"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/dev_diop221/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://app.daily.dev/Devdiop221"><img src="https://api.daily.dev/devcards/5c62379607504499ad1c15aaf847461f.png?r=wii" width="400" alt="Mouhamed Diop's Dev Card"/></a>
 
 
 </p>
