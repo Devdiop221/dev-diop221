@@ -91,3 +91,5 @@
     <img src="https://komarev.com/ghpvc/?username=dev-diop221">
 </a>
 <a href="https://github.com/dev-diop221?tab=followers"><img src="https://img.shields.io/github/followers/dev-diop221?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://app.daily.dev/Devdiop221"><img src="https://api.daily.dev/devcards/5c62379607504499ad1c15aaf847461f.png?r=wii" width="400" alt="Mouhamed Diop's Dev Card"/></a>
+
